@@ -10,7 +10,10 @@
     "newLine": "lf",
     "declaration": true,
     "declarationMap": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "paths": {
+      "@codemirror/stream-parser": ["./src/stream-parser.ts"]
+    }
   },
   "include": ["src/*.ts", "test/*.ts"]
 }
