@@ -1,3 +1,11 @@
+## 0.18.1 (2021-03-09)
+
+### Bug fixes
+
+Fix the node offsets in trees produced by a parse starting in the middle of a document.
+
+Fix a bug that would cause a stream parser to get stuck when a nested stream parse ended before the end of the viewport.
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes
