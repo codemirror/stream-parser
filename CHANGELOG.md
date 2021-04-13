@@ -1,3 +1,9 @@
+## 0.18.2 (2021-04-13)
+
+### Bug fixes
+
+Fix a misformed .d.ts file in the previous release.
+
 ## 0.18.1 (2021-03-09)
 
 ### Bug fixes
