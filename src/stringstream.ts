@@ -23,7 +23,6 @@ export class StringStream {
   private lastColumnPos: number = 0
   private lastColumnValue: number = 0
 
-  /// @internal
   constructor(
     /// The line.
     public string: string,
