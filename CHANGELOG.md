@@ -1,3 +1,11 @@
+## 0.19.3 (2021-12-11)
+
+### Bug fixes
+
+Stop parsing at a given line length to avoid freezing the editor on very long lines.
+
+Make sure the stream parser doesn't get stuck at the end of the viewport.
+
 ## 0.19.2 (2021-09-06)
 
 ### Bug fixes
