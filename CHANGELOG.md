@@ -1,3 +1,9 @@
+## 0.19.4 (2022-01-17)
+
+### New features
+
+Stream parser objects now support a `tokenTable` property that allows you to use non-standard highlighting tags in the parser output.
+
 ## 0.19.3 (2021-12-11)
 
 ### Bug fixes
