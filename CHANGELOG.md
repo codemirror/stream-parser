@@ -1,3 +1,9 @@
+## 0.19.5 (2022-01-28)
+
+### Bug fixes
+
+Fix a bug that could cause pieces of the old syntax tree to inappropriately appear in an updated tree on re-parsing.
+
 ## 0.19.4 (2022-01-17)
 
 ### New features
