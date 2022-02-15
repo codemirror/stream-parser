@@ -212,7 +212,7 @@ class Parse<State> implements PartialParse {
   }
 
   stopAt(pos: number) {
-    this.stoppedAt = pos
+    this.stoppedAt = Math.min(pos, this.to)
   }
 
   lineAfter(pos: number) {
