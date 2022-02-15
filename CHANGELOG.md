@@ -1,3 +1,9 @@
+## 0.19.6 (2022-02-15)
+
+### Bug fixes
+
+Fix an infinite loop when a stream parser is stopped at a point beyond its parsing range.
+
 ## 0.19.5 (2022-01-28)
 
 ### Bug fixes
