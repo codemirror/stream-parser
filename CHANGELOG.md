@@ -1,3 +1,9 @@
+## 0.19.7 (2022-03-03)
+
+### Bug fixes
+
+Fix a bug that caused the wrong line content to be passed to stream parsers' indent method.
+
 ## 0.19.6 (2022-02-15)
 
 ### Bug fixes
