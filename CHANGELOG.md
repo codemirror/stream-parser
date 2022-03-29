@@ -1,3 +1,9 @@
+## 0.19.8 (2022-03-29)
+
+### Bug fixes
+
+Fix an issue that caused the stream parser to crash or hang in some situations on multi-range parses.
+
 ## 0.19.7 (2022-03-03)
 
 ### Bug fixes
