@@ -1,3 +1,9 @@
+## 0.19.9 (2022-03-30)
+
+### Bug fixes
+
+Fix another crash in parsing multiple input ranges.
+
 ## 0.19.8 (2022-03-29)
 
 ### Bug fixes
